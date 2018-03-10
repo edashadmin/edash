@@ -81,28 +81,28 @@ CMakeFiles/edash.dir/src/bench/bench.cpp.o.provides: CMakeFiles/edash.dir/src/be
 CMakeFiles/edash.dir/src/bench/bench.cpp.o.provides.build: CMakeFiles/edash.dir/src/bench/bench.cpp.o
 
 
-CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o: CMakeFiles/edash.dir/flags.make
-CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o: ../src/bench/bench_dash.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o -c /home/ronnie173/edash/src/bench/bench_dash.cpp
+CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o: CMakeFiles/edash.dir/flags.make
+CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o: ../src/bench/bench_edash.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o -c /home/ronnie173/edash/src/bench/bench_edash.cpp
 
-CMakeFiles/edash.dir/src/bench/bench_dash.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/bench/bench_dash.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/bench/bench_dash.cpp > CMakeFiles/edash.dir/src/bench/bench_dash.cpp.i
+CMakeFiles/edash.dir/src/bench/bench_edash.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/bench/bench_edash.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/bench/bench_edash.cpp > CMakeFiles/edash.dir/src/bench/bench_edash.cpp.i
 
-CMakeFiles/edash.dir/src/bench/bench_dash.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/bench/bench_dash.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/bench/bench_dash.cpp -o CMakeFiles/edash.dir/src/bench/bench_dash.cpp.s
+CMakeFiles/edash.dir/src/bench/bench_edash.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/bench/bench_edash.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/bench/bench_edash.cpp -o CMakeFiles/edash.dir/src/bench/bench_edash.cpp.s
 
-CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o.requires:
+CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o.requires:
 
-.PHONY : CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o.requires
+.PHONY : CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o.requires
 
-CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o.provides: CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o.requires
-	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o.provides.build
-.PHONY : CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o.provides
+CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o.provides: CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o.requires
+	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o.provides.build
+.PHONY : CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o.provides
 
-CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o.provides.build: CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o
+CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o.provides.build: CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o
 
 
 CMakeFiles/edash.dir/src/bench/Examples.cpp.o: CMakeFiles/edash.dir/flags.make
@@ -3009,28 +3009,28 @@ CMakeFiles/edash.dir/src/qt/darksendconfig.cpp.o.provides: CMakeFiles/edash.dir/
 CMakeFiles/edash.dir/src/qt/darksendconfig.cpp.o.provides.build: CMakeFiles/edash.dir/src/qt/darksendconfig.cpp.o
 
 
-CMakeFiles/edash.dir/src/qt/dash.cpp.o: CMakeFiles/edash.dir/flags.make
-CMakeFiles/edash.dir/src/qt/dash.cpp.o: ../src/qt/dash.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/edash.dir/src/qt/dash.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/qt/dash.cpp.o -c /home/ronnie173/edash/src/qt/dash.cpp
+CMakeFiles/edash.dir/src/qt/edash.cpp.o: CMakeFiles/edash.dir/flags.make
+CMakeFiles/edash.dir/src/qt/edash.cpp.o: ../src/qt/edash.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/edash.dir/src/qt/edash.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/qt/edash.cpp.o -c /home/ronnie173/edash/src/qt/edash.cpp
 
-CMakeFiles/edash.dir/src/qt/dash.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/qt/dash.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/qt/dash.cpp > CMakeFiles/edash.dir/src/qt/dash.cpp.i
+CMakeFiles/edash.dir/src/qt/edash.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/qt/edash.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/qt/edash.cpp > CMakeFiles/edash.dir/src/qt/edash.cpp.i
 
-CMakeFiles/edash.dir/src/qt/dash.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/qt/dash.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/qt/dash.cpp -o CMakeFiles/edash.dir/src/qt/dash.cpp.s
+CMakeFiles/edash.dir/src/qt/edash.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/qt/edash.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/qt/edash.cpp -o CMakeFiles/edash.dir/src/qt/edash.cpp.s
 
-CMakeFiles/edash.dir/src/qt/dash.cpp.o.requires:
+CMakeFiles/edash.dir/src/qt/edash.cpp.o.requires:
 
-.PHONY : CMakeFiles/edash.dir/src/qt/dash.cpp.o.requires
+.PHONY : CMakeFiles/edash.dir/src/qt/edash.cpp.o.requires
 
-CMakeFiles/edash.dir/src/qt/dash.cpp.o.provides: CMakeFiles/edash.dir/src/qt/dash.cpp.o.requires
-	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/qt/dash.cpp.o.provides.build
-.PHONY : CMakeFiles/edash.dir/src/qt/dash.cpp.o.provides
+CMakeFiles/edash.dir/src/qt/edash.cpp.o.provides: CMakeFiles/edash.dir/src/qt/edash.cpp.o.requires
+	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/qt/edash.cpp.o.provides.build
+.PHONY : CMakeFiles/edash.dir/src/qt/edash.cpp.o.provides
 
-CMakeFiles/edash.dir/src/qt/dash.cpp.o.provides.build: CMakeFiles/edash.dir/src/qt/dash.cpp.o
+CMakeFiles/edash.dir/src/qt/edash.cpp.o.provides.build: CMakeFiles/edash.dir/src/qt/edash.cpp.o
 
 
 CMakeFiles/edash.dir/src/qt/dashstrings.cpp.o: CMakeFiles/edash.dir/flags.make
@@ -4233,28 +4233,28 @@ CMakeFiles/edash.dir/src/rpc/server.cpp.o.provides: CMakeFiles/edash.dir/src/rpc
 CMakeFiles/edash.dir/src/rpc/server.cpp.o.provides.build: CMakeFiles/edash.dir/src/rpc/server.cpp.o
 
 
-CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o: CMakeFiles/edash.dir/flags.make
-CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o: ../src/script/dashconsensus.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building CXX object CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o -c /home/ronnie173/edash/src/script/dashconsensus.cpp
+CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o: CMakeFiles/edash.dir/flags.make
+CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o: ../src/script/edashconsensus.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building CXX object CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o -c /home/ronnie173/edash/src/script/edashconsensus.cpp
 
-CMakeFiles/edash.dir/src/script/dashconsensus.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/script/dashconsensus.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/script/dashconsensus.cpp > CMakeFiles/edash.dir/src/script/dashconsensus.cpp.i
+CMakeFiles/edash.dir/src/script/edashconsensus.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/script/edashconsensus.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/script/edashconsensus.cpp > CMakeFiles/edash.dir/src/script/edashconsensus.cpp.i
 
-CMakeFiles/edash.dir/src/script/dashconsensus.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/script/dashconsensus.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/script/dashconsensus.cpp -o CMakeFiles/edash.dir/src/script/dashconsensus.cpp.s
+CMakeFiles/edash.dir/src/script/edashconsensus.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/script/edashconsensus.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/script/edashconsensus.cpp -o CMakeFiles/edash.dir/src/script/edashconsensus.cpp.s
 
-CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o.requires:
+CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o.requires:
 
-.PHONY : CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o.requires
+.PHONY : CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o.requires
 
-CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o.provides: CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o.requires
-	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o.provides.build
-.PHONY : CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o.provides
+CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o.provides: CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o.requires
+	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o.provides.build
+.PHONY : CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o.provides
 
-CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o.provides.build: CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o
+CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o.provides.build: CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o
 
 
 CMakeFiles/edash.dir/src/script/interpreter.cpp.o: CMakeFiles/edash.dir/flags.make
@@ -5961,28 +5961,28 @@ CMakeFiles/edash.dir/src/test/streams_tests.cpp.o.provides: CMakeFiles/edash.dir
 CMakeFiles/edash.dir/src/test/streams_tests.cpp.o.provides.build: CMakeFiles/edash.dir/src/test/streams_tests.cpp.o
 
 
-CMakeFiles/edash.dir/src/test/test_dash.cpp.o: CMakeFiles/edash.dir/flags.make
-CMakeFiles/edash.dir/src/test/test_dash.cpp.o: ../src/test/test_dash.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building CXX object CMakeFiles/edash.dir/src/test/test_dash.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/test/test_dash.cpp.o -c /home/ronnie173/edash/src/test/test_dash.cpp
+CMakeFiles/edash.dir/src/test/test_edash.cpp.o: CMakeFiles/edash.dir/flags.make
+CMakeFiles/edash.dir/src/test/test_edash.cpp.o: ../src/test/test_edash.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building CXX object CMakeFiles/edash.dir/src/test/test_edash.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/test/test_edash.cpp.o -c /home/ronnie173/edash/src/test/test_edash.cpp
 
-CMakeFiles/edash.dir/src/test/test_dash.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/test/test_dash.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/test/test_dash.cpp > CMakeFiles/edash.dir/src/test/test_dash.cpp.i
+CMakeFiles/edash.dir/src/test/test_edash.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/test/test_edash.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/test/test_edash.cpp > CMakeFiles/edash.dir/src/test/test_edash.cpp.i
 
-CMakeFiles/edash.dir/src/test/test_dash.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/test/test_dash.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/test/test_dash.cpp -o CMakeFiles/edash.dir/src/test/test_dash.cpp.s
+CMakeFiles/edash.dir/src/test/test_edash.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/test/test_edash.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/test/test_edash.cpp -o CMakeFiles/edash.dir/src/test/test_edash.cpp.s
 
-CMakeFiles/edash.dir/src/test/test_dash.cpp.o.requires:
+CMakeFiles/edash.dir/src/test/test_edash.cpp.o.requires:
 
-.PHONY : CMakeFiles/edash.dir/src/test/test_dash.cpp.o.requires
+.PHONY : CMakeFiles/edash.dir/src/test/test_edash.cpp.o.requires
 
-CMakeFiles/edash.dir/src/test/test_dash.cpp.o.provides: CMakeFiles/edash.dir/src/test/test_dash.cpp.o.requires
-	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/test/test_dash.cpp.o.provides.build
-.PHONY : CMakeFiles/edash.dir/src/test/test_dash.cpp.o.provides
+CMakeFiles/edash.dir/src/test/test_edash.cpp.o.provides: CMakeFiles/edash.dir/src/test/test_edash.cpp.o.requires
+	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/test/test_edash.cpp.o.provides.build
+.PHONY : CMakeFiles/edash.dir/src/test/test_edash.cpp.o.provides
 
-CMakeFiles/edash.dir/src/test/test_dash.cpp.o.provides.build: CMakeFiles/edash.dir/src/test/test_dash.cpp.o
+CMakeFiles/edash.dir/src/test/test_edash.cpp.o.provides.build: CMakeFiles/edash.dir/src/test/test_edash.cpp.o
 
 
 CMakeFiles/edash.dir/src/test/timedata_tests.cpp.o: CMakeFiles/edash.dir/flags.make
@@ -6969,76 +6969,76 @@ CMakeFiles/edash.dir/src/core_write.cpp.o.provides: CMakeFiles/edash.dir/src/cor
 CMakeFiles/edash.dir/src/core_write.cpp.o.provides.build: CMakeFiles/edash.dir/src/core_write.cpp.o
 
 
-CMakeFiles/edash.dir/src/dash-cli.cpp.o: CMakeFiles/edash.dir/flags.make
-CMakeFiles/edash.dir/src/dash-cli.cpp.o: ../src/dash-cli.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_289) "Building CXX object CMakeFiles/edash.dir/src/dash-cli.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/dash-cli.cpp.o -c /home/ronnie173/edash/src/dash-cli.cpp
+CMakeFiles/edash.dir/src/edash-cli.cpp.o: CMakeFiles/edash.dir/flags.make
+CMakeFiles/edash.dir/src/edash-cli.cpp.o: ../src/edash-cli.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_289) "Building CXX object CMakeFiles/edash.dir/src/edash-cli.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/edash-cli.cpp.o -c /home/ronnie173/edash/src/edash-cli.cpp
 
-CMakeFiles/edash.dir/src/dash-cli.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/dash-cli.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/dash-cli.cpp > CMakeFiles/edash.dir/src/dash-cli.cpp.i
+CMakeFiles/edash.dir/src/edash-cli.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/edash-cli.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/edash-cli.cpp > CMakeFiles/edash.dir/src/edash-cli.cpp.i
 
-CMakeFiles/edash.dir/src/dash-cli.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/dash-cli.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/dash-cli.cpp -o CMakeFiles/edash.dir/src/dash-cli.cpp.s
+CMakeFiles/edash.dir/src/edash-cli.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/edash-cli.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/edash-cli.cpp -o CMakeFiles/edash.dir/src/edash-cli.cpp.s
 
-CMakeFiles/edash.dir/src/dash-cli.cpp.o.requires:
+CMakeFiles/edash.dir/src/edash-cli.cpp.o.requires:
 
-.PHONY : CMakeFiles/edash.dir/src/dash-cli.cpp.o.requires
+.PHONY : CMakeFiles/edash.dir/src/edash-cli.cpp.o.requires
 
-CMakeFiles/edash.dir/src/dash-cli.cpp.o.provides: CMakeFiles/edash.dir/src/dash-cli.cpp.o.requires
-	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/dash-cli.cpp.o.provides.build
-.PHONY : CMakeFiles/edash.dir/src/dash-cli.cpp.o.provides
+CMakeFiles/edash.dir/src/edash-cli.cpp.o.provides: CMakeFiles/edash.dir/src/edash-cli.cpp.o.requires
+	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/edash-cli.cpp.o.provides.build
+.PHONY : CMakeFiles/edash.dir/src/edash-cli.cpp.o.provides
 
-CMakeFiles/edash.dir/src/dash-cli.cpp.o.provides.build: CMakeFiles/edash.dir/src/dash-cli.cpp.o
-
-
-CMakeFiles/edash.dir/src/dash-tx.cpp.o: CMakeFiles/edash.dir/flags.make
-CMakeFiles/edash.dir/src/dash-tx.cpp.o: ../src/dash-tx.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_290) "Building CXX object CMakeFiles/edash.dir/src/dash-tx.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/dash-tx.cpp.o -c /home/ronnie173/edash/src/dash-tx.cpp
-
-CMakeFiles/edash.dir/src/dash-tx.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/dash-tx.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/dash-tx.cpp > CMakeFiles/edash.dir/src/dash-tx.cpp.i
-
-CMakeFiles/edash.dir/src/dash-tx.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/dash-tx.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/dash-tx.cpp -o CMakeFiles/edash.dir/src/dash-tx.cpp.s
-
-CMakeFiles/edash.dir/src/dash-tx.cpp.o.requires:
-
-.PHONY : CMakeFiles/edash.dir/src/dash-tx.cpp.o.requires
-
-CMakeFiles/edash.dir/src/dash-tx.cpp.o.provides: CMakeFiles/edash.dir/src/dash-tx.cpp.o.requires
-	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/dash-tx.cpp.o.provides.build
-.PHONY : CMakeFiles/edash.dir/src/dash-tx.cpp.o.provides
-
-CMakeFiles/edash.dir/src/dash-tx.cpp.o.provides.build: CMakeFiles/edash.dir/src/dash-tx.cpp.o
+CMakeFiles/edash.dir/src/edash-cli.cpp.o.provides.build: CMakeFiles/edash.dir/src/edash-cli.cpp.o
 
 
-CMakeFiles/edash.dir/src/dashd.cpp.o: CMakeFiles/edash.dir/flags.make
-CMakeFiles/edash.dir/src/dashd.cpp.o: ../src/dashd.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_291) "Building CXX object CMakeFiles/edash.dir/src/dashd.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/dashd.cpp.o -c /home/ronnie173/edash/src/dashd.cpp
+CMakeFiles/edash.dir/src/edash-tx.cpp.o: CMakeFiles/edash.dir/flags.make
+CMakeFiles/edash.dir/src/edash-tx.cpp.o: ../src/edash-tx.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_290) "Building CXX object CMakeFiles/edash.dir/src/edash-tx.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/edash-tx.cpp.o -c /home/ronnie173/edash/src/edash-tx.cpp
 
-CMakeFiles/edash.dir/src/dashd.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/dashd.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/dashd.cpp > CMakeFiles/edash.dir/src/dashd.cpp.i
+CMakeFiles/edash.dir/src/edash-tx.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/edash-tx.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/edash-tx.cpp > CMakeFiles/edash.dir/src/edash-tx.cpp.i
 
-CMakeFiles/edash.dir/src/dashd.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/dashd.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/dashd.cpp -o CMakeFiles/edash.dir/src/dashd.cpp.s
+CMakeFiles/edash.dir/src/edash-tx.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/edash-tx.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/edash-tx.cpp -o CMakeFiles/edash.dir/src/edash-tx.cpp.s
 
-CMakeFiles/edash.dir/src/dashd.cpp.o.requires:
+CMakeFiles/edash.dir/src/edash-tx.cpp.o.requires:
 
-.PHONY : CMakeFiles/edash.dir/src/dashd.cpp.o.requires
+.PHONY : CMakeFiles/edash.dir/src/edash-tx.cpp.o.requires
 
-CMakeFiles/edash.dir/src/dashd.cpp.o.provides: CMakeFiles/edash.dir/src/dashd.cpp.o.requires
-	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/dashd.cpp.o.provides.build
-.PHONY : CMakeFiles/edash.dir/src/dashd.cpp.o.provides
+CMakeFiles/edash.dir/src/edash-tx.cpp.o.provides: CMakeFiles/edash.dir/src/edash-tx.cpp.o.requires
+	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/edash-tx.cpp.o.provides.build
+.PHONY : CMakeFiles/edash.dir/src/edash-tx.cpp.o.provides
 
-CMakeFiles/edash.dir/src/dashd.cpp.o.provides.build: CMakeFiles/edash.dir/src/dashd.cpp.o
+CMakeFiles/edash.dir/src/edash-tx.cpp.o.provides.build: CMakeFiles/edash.dir/src/edash-tx.cpp.o
+
+
+CMakeFiles/edash.dir/src/edashd.cpp.o: CMakeFiles/edash.dir/flags.make
+CMakeFiles/edash.dir/src/edashd.cpp.o: ../src/edashd.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ronnie173/edash/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_291) "Building CXX object CMakeFiles/edash.dir/src/edashd.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/edash.dir/src/edashd.cpp.o -c /home/ronnie173/edash/src/edashd.cpp
+
+CMakeFiles/edash.dir/src/edashd.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/edash.dir/src/edashd.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ronnie173/edash/src/edashd.cpp > CMakeFiles/edash.dir/src/edashd.cpp.i
+
+CMakeFiles/edash.dir/src/edashd.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/edash.dir/src/edashd.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ronnie173/edash/src/edashd.cpp -o CMakeFiles/edash.dir/src/edashd.cpp.s
+
+CMakeFiles/edash.dir/src/edashd.cpp.o.requires:
+
+.PHONY : CMakeFiles/edash.dir/src/edashd.cpp.o.requires
+
+CMakeFiles/edash.dir/src/edashd.cpp.o.provides: CMakeFiles/edash.dir/src/edashd.cpp.o.requires
+	$(MAKE) -f CMakeFiles/edash.dir/build.make CMakeFiles/edash.dir/src/edashd.cpp.o.provides.build
+.PHONY : CMakeFiles/edash.dir/src/edashd.cpp.o.provides
+
+CMakeFiles/edash.dir/src/edashd.cpp.o.provides.build: CMakeFiles/edash.dir/src/edashd.cpp.o
 
 
 CMakeFiles/edash.dir/src/dbwrapper.cpp.o: CMakeFiles/edash.dir/flags.make
@@ -8412,7 +8412,7 @@ CMakeFiles/edash.dir/src/versionbits.cpp.o.provides.build: CMakeFiles/edash.dir/
 # Object files for target edash
 edash_OBJECTS = \
 "CMakeFiles/edash.dir/src/bench/bench.cpp.o" \
-"CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o" \
+"CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o" \
 "CMakeFiles/edash.dir/src/bench/Examples.cpp.o" \
 "CMakeFiles/edash.dir/src/compat/glibc_compat.cpp.o" \
 "CMakeFiles/edash.dir/src/compat/glibc_sanity.cpp.o" \
@@ -8534,7 +8534,7 @@ edash_OBJECTS = \
 "CMakeFiles/edash.dir/src/qt/coincontroltreewidget.cpp.o" \
 "CMakeFiles/edash.dir/src/qt/csvmodelwriter.cpp.o" \
 "CMakeFiles/edash.dir/src/qt/darksendconfig.cpp.o" \
-"CMakeFiles/edash.dir/src/qt/dash.cpp.o" \
+"CMakeFiles/edash.dir/src/qt/edash.cpp.o" \
 "CMakeFiles/edash.dir/src/qt/dashstrings.cpp.o" \
 "CMakeFiles/edash.dir/src/qt/editaddressdialog.cpp.o" \
 "CMakeFiles/edash.dir/src/qt/guiutil.cpp.o" \
@@ -8585,7 +8585,7 @@ edash_OBJECTS = \
 "CMakeFiles/edash.dir/src/rpc/protocol.cpp.o" \
 "CMakeFiles/edash.dir/src/rpc/rawtransaction.cpp.o" \
 "CMakeFiles/edash.dir/src/rpc/server.cpp.o" \
-"CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o" \
+"CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o" \
 "CMakeFiles/edash.dir/src/script/interpreter.cpp.o" \
 "CMakeFiles/edash.dir/src/script/script.cpp.o" \
 "CMakeFiles/edash.dir/src/script/script_error.cpp.o" \
@@ -8657,7 +8657,7 @@ edash_OBJECTS = \
 "CMakeFiles/edash.dir/src/test/sigopcount_tests.cpp.o" \
 "CMakeFiles/edash.dir/src/test/skiplist_tests.cpp.o" \
 "CMakeFiles/edash.dir/src/test/streams_tests.cpp.o" \
-"CMakeFiles/edash.dir/src/test/test_dash.cpp.o" \
+"CMakeFiles/edash.dir/src/test/test_edash.cpp.o" \
 "CMakeFiles/edash.dir/src/test/timedata_tests.cpp.o" \
 "CMakeFiles/edash.dir/src/test/transaction_tests.cpp.o" \
 "CMakeFiles/edash.dir/src/test/txvalidationcache_tests.cpp.o" \
@@ -8699,9 +8699,9 @@ edash_OBJECTS = \
 "CMakeFiles/edash.dir/src/compressor.cpp.o" \
 "CMakeFiles/edash.dir/src/core_read.cpp.o" \
 "CMakeFiles/edash.dir/src/core_write.cpp.o" \
-"CMakeFiles/edash.dir/src/dash-cli.cpp.o" \
-"CMakeFiles/edash.dir/src/dash-tx.cpp.o" \
-"CMakeFiles/edash.dir/src/dashd.cpp.o" \
+"CMakeFiles/edash.dir/src/edash-cli.cpp.o" \
+"CMakeFiles/edash.dir/src/edash-tx.cpp.o" \
+"CMakeFiles/edash.dir/src/edashd.cpp.o" \
 "CMakeFiles/edash.dir/src/dbwrapper.cpp.o" \
 "CMakeFiles/edash.dir/src/dsnotificationinterface.cpp.o" \
 "CMakeFiles/edash.dir/src/governance-classes.cpp.o" \
@@ -8764,7 +8764,7 @@ edash_OBJECTS = \
 edash_EXTERNAL_OBJECTS =
 
 edash: CMakeFiles/edash.dir/src/bench/bench.cpp.o
-edash: CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o
+edash: CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o
 edash: CMakeFiles/edash.dir/src/bench/Examples.cpp.o
 edash: CMakeFiles/edash.dir/src/compat/glibc_compat.cpp.o
 edash: CMakeFiles/edash.dir/src/compat/glibc_sanity.cpp.o
@@ -8886,7 +8886,7 @@ edash: CMakeFiles/edash.dir/src/qt/coincontroldialog.cpp.o
 edash: CMakeFiles/edash.dir/src/qt/coincontroltreewidget.cpp.o
 edash: CMakeFiles/edash.dir/src/qt/csvmodelwriter.cpp.o
 edash: CMakeFiles/edash.dir/src/qt/darksendconfig.cpp.o
-edash: CMakeFiles/edash.dir/src/qt/dash.cpp.o
+edash: CMakeFiles/edash.dir/src/qt/edash.cpp.o
 edash: CMakeFiles/edash.dir/src/qt/dashstrings.cpp.o
 edash: CMakeFiles/edash.dir/src/qt/editaddressdialog.cpp.o
 edash: CMakeFiles/edash.dir/src/qt/guiutil.cpp.o
@@ -8937,7 +8937,7 @@ edash: CMakeFiles/edash.dir/src/rpc/net.cpp.o
 edash: CMakeFiles/edash.dir/src/rpc/protocol.cpp.o
 edash: CMakeFiles/edash.dir/src/rpc/rawtransaction.cpp.o
 edash: CMakeFiles/edash.dir/src/rpc/server.cpp.o
-edash: CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o
+edash: CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o
 edash: CMakeFiles/edash.dir/src/script/interpreter.cpp.o
 edash: CMakeFiles/edash.dir/src/script/script.cpp.o
 edash: CMakeFiles/edash.dir/src/script/script_error.cpp.o
@@ -9009,7 +9009,7 @@ edash: CMakeFiles/edash.dir/src/test/sighash_tests.cpp.o
 edash: CMakeFiles/edash.dir/src/test/sigopcount_tests.cpp.o
 edash: CMakeFiles/edash.dir/src/test/skiplist_tests.cpp.o
 edash: CMakeFiles/edash.dir/src/test/streams_tests.cpp.o
-edash: CMakeFiles/edash.dir/src/test/test_dash.cpp.o
+edash: CMakeFiles/edash.dir/src/test/test_edash.cpp.o
 edash: CMakeFiles/edash.dir/src/test/timedata_tests.cpp.o
 edash: CMakeFiles/edash.dir/src/test/transaction_tests.cpp.o
 edash: CMakeFiles/edash.dir/src/test/txvalidationcache_tests.cpp.o
@@ -9051,9 +9051,9 @@ edash: CMakeFiles/edash.dir/src/coins.cpp.o
 edash: CMakeFiles/edash.dir/src/compressor.cpp.o
 edash: CMakeFiles/edash.dir/src/core_read.cpp.o
 edash: CMakeFiles/edash.dir/src/core_write.cpp.o
-edash: CMakeFiles/edash.dir/src/dash-cli.cpp.o
-edash: CMakeFiles/edash.dir/src/dash-tx.cpp.o
-edash: CMakeFiles/edash.dir/src/dashd.cpp.o
+edash: CMakeFiles/edash.dir/src/edash-cli.cpp.o
+edash: CMakeFiles/edash.dir/src/edash-tx.cpp.o
+edash: CMakeFiles/edash.dir/src/edashd.cpp.o
 edash: CMakeFiles/edash.dir/src/dbwrapper.cpp.o
 edash: CMakeFiles/edash.dir/src/dsnotificationinterface.cpp.o
 edash: CMakeFiles/edash.dir/src/governance-classes.cpp.o
@@ -9122,7 +9122,7 @@ CMakeFiles/edash.dir/build: edash
 .PHONY : CMakeFiles/edash.dir/build
 
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/bench/bench.cpp.o.requires
-CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/bench/bench_dash.cpp.o.requires
+CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/bench/bench_edash.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/bench/Examples.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/compat/glibc_compat.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/compat/glibc_sanity.cpp.o.requires
@@ -9244,7 +9244,7 @@ CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/qt/coincontroldialog.cpp
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/qt/coincontroltreewidget.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/qt/csvmodelwriter.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/qt/darksendconfig.cpp.o.requires
-CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/qt/dash.cpp.o.requires
+CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/qt/edash.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/qt/dashstrings.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/qt/editaddressdialog.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/qt/guiutil.cpp.o.requires
@@ -9295,7 +9295,7 @@ CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/rpc/net.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/rpc/protocol.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/rpc/rawtransaction.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/rpc/server.cpp.o.requires
-CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/script/dashconsensus.cpp.o.requires
+CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/script/edashconsensus.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/script/interpreter.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/script/script.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/script/script_error.cpp.o.requires
@@ -9367,7 +9367,7 @@ CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/test/sighash_tests.cpp.o
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/test/sigopcount_tests.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/test/skiplist_tests.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/test/streams_tests.cpp.o.requires
-CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/test/test_dash.cpp.o.requires
+CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/test/test_edash.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/test/timedata_tests.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/test/transaction_tests.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/test/txvalidationcache_tests.cpp.o.requires
@@ -9409,9 +9409,9 @@ CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/coins.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/compressor.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/core_read.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/core_write.cpp.o.requires
-CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/dash-cli.cpp.o.requires
-CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/dash-tx.cpp.o.requires
-CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/dashd.cpp.o.requires
+CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/edash-cli.cpp.o.requires
+CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/edash-tx.cpp.o.requires
+CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/edashd.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/dbwrapper.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/dsnotificationinterface.cpp.o.requires
 CMakeFiles/edash.dir/requires: CMakeFiles/edash.dir/src/governance-classes.cpp.o.requires

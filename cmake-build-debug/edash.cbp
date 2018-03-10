@@ -138,7 +138,7 @@
 		<Unit filename="/home/ronnie173/edash/src/bench/bench.h">
 			<Option target="edash"/>
 		</Unit>
-		<Unit filename="/home/ronnie173/edash/src/bench/bench_dash.cpp">
+		<Unit filename="/home/ronnie173/edash/src/bench/bench_edash.cpp">
 			<Option target="edash"/>
 		</Unit>
 		<Unit filename="/home/ronnie173/edash/src/bip39.cpp">
@@ -375,15 +375,6 @@
 		<Unit filename="/home/ronnie173/edash/src/crypto/sph_types.h">
 			<Option target="edash"/>
 		</Unit>
-		<Unit filename="/home/ronnie173/edash/src/dash-cli.cpp">
-			<Option target="edash"/>
-		</Unit>
-		<Unit filename="/home/ronnie173/edash/src/dash-tx.cpp">
-			<Option target="edash"/>
-		</Unit>
-		<Unit filename="/home/ronnie173/edash/src/dashd.cpp">
-			<Option target="edash"/>
-		</Unit>
 		<Unit filename="/home/ronnie173/edash/src/dbwrapper.cpp">
 			<Option target="edash"/>
 		</Unit>
@@ -415,6 +406,15 @@
 			<Option target="edash"/>
 		</Unit>
 		<Unit filename="/home/ronnie173/edash/src/dsnotificationinterface.h">
+			<Option target="edash"/>
+		</Unit>
+		<Unit filename="/home/ronnie173/edash/src/edash-cli.cpp">
+			<Option target="edash"/>
+		</Unit>
+		<Unit filename="/home/ronnie173/edash/src/edash-tx.cpp">
+			<Option target="edash"/>
+		</Unit>
+		<Unit filename="/home/ronnie173/edash/src/edashd.cpp">
 			<Option target="edash"/>
 		</Unit>
 		<Unit filename="/home/ronnie173/edash/src/flat-database.h">
@@ -1137,10 +1137,10 @@
 		<Unit filename="/home/ronnie173/edash/src/qt/darksendconfig.h">
 			<Option target="edash"/>
 		</Unit>
-		<Unit filename="/home/ronnie173/edash/src/qt/dash.cpp">
+		<Unit filename="/home/ronnie173/edash/src/qt/dashstrings.cpp">
 			<Option target="edash"/>
 		</Unit>
-		<Unit filename="/home/ronnie173/edash/src/qt/dashstrings.cpp">
+		<Unit filename="/home/ronnie173/edash/src/qt/edash.cpp">
 			<Option target="edash"/>
 		</Unit>
 		<Unit filename="/home/ronnie173/edash/src/qt/editaddressdialog.cpp">
@@ -1473,10 +1473,10 @@
 		<Unit filename="/home/ronnie173/edash/src/scheduler.h">
 			<Option target="edash"/>
 		</Unit>
-		<Unit filename="/home/ronnie173/edash/src/script/dashconsensus.cpp">
+		<Unit filename="/home/ronnie173/edash/src/script/edashconsensus.cpp">
 			<Option target="edash"/>
 		</Unit>
-		<Unit filename="/home/ronnie173/edash/src/script/dashconsensus.h">
+		<Unit filename="/home/ronnie173/edash/src/script/edashconsensus.h">
 			<Option target="edash"/>
 		</Unit>
 		<Unit filename="/home/ronnie173/edash/src/script/interpreter.cpp">
@@ -1905,10 +1905,10 @@
 		<Unit filename="/home/ronnie173/edash/src/test/streams_tests.cpp">
 			<Option target="edash"/>
 		</Unit>
-		<Unit filename="/home/ronnie173/edash/src/test/test_dash.cpp">
+		<Unit filename="/home/ronnie173/edash/src/test/test_edash.cpp">
 			<Option target="edash"/>
 		</Unit>
-		<Unit filename="/home/ronnie173/edash/src/test/test_dash.h">
+		<Unit filename="/home/ronnie173/edash/src/test/test_edash.h">
 			<Option target="edash"/>
 		</Unit>
 		<Unit filename="/home/ronnie173/edash/src/test/timedata_tests.cpp">
