@@ -1,0 +1,6 @@
+usr/local/bin/edash-qt usr/bin
+share/pixmaps/edash32.xpm usr/share/pixmaps
+share/pixmaps/edash16.xpm usr/share/pixmaps
+share/pixmaps/edash128.png usr/share/pixmaps
+debian/edash-qt.desktop usr/share/applications
+debian/edash-qt.protocol usr/share/kde4/services/

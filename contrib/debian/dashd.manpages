@@ -1,0 +1,3 @@
+debian/manpages/edashd.1
+debian/manpages/edash.conf.5
+debian/manpages/edash-cli.1

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=EDash
+Comment=EDash P2P Cryptocurrency
+Comment[fr]=EDash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=EDash, eşten eşe kriptografik sanal para birimi
+Exec=edash-qt %u
+Terminal=false
+Type=Application
+Icon=edash128
+MimeType=x-scheme-handler/edash;
+Categories=Office;Finance;

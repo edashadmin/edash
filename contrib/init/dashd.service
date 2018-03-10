@@ -1,0 +1,22 @@
+[Unit]
+Description=EDash's distributed currency daemon
+After=network.target
+
+[Service]
+User=edashcore
+Group=edashcore
+
+Type=forking
+PIDFile=/var/lib/edashd/edashd.pid
+ExecStart=/usr/bin/edashd -daemon -pid=/var/lib/edashd/edashd.pid \
+-conf=/etc/edashcore/edash.conf -datadir=/var/lib/edashd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

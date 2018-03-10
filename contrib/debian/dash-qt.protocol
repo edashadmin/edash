@@ -1,0 +1,11 @@
+[Protocol]
+exec=edash-qt '%u'
+protocol=edash
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
