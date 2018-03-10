@@ -12,35 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d02a476-fdac-4c7d-847e-207933d799f2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/edash.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/edash.dir/DependInfo.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/edash.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/edash.dir/build.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/edash.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/edash.dir/cmake_clean.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/edash.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/edash.dir/link.txt" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/edash.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/edash.cbp" />
       <change beforePath="$PROJECT_DIR$/src/chainparams.cpp" afterPath="$PROJECT_DIR$/src/chainparams.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_bg.ts" afterPath="$PROJECT_DIR$/src/qt/locale/edash_bg.ts" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_de.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_en.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_es.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_fi.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_fr.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_it.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_ja.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_pl.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_pt.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_ru.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_sk.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_sv.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_vi.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_zh_CN.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/locale/dash_zh_TW.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/qt/res/images/crownium/dash_logo_horizontal.png" afterPath="$PROJECT_DIR$/src/qt/res/images/crownium/edash_logo_horizontal.png" />
-      <change beforePath="$PROJECT_DIR$/src/qt/res/images/drkblue/dash_logo_horizontal.png" afterPath="$PROJECT_DIR$/src/qt/res/images/trad/edash_logo_horizontal.png" />
-      <change beforePath="$PROJECT_DIR$/src/qt/res/images/light/dash_logo_horizontal.png" afterPath="$PROJECT_DIR$/src/qt/res/images/light/edash_logo_horizontal.png" />
-      <change beforePath="$PROJECT_DIR$/src/qt/res/images/trad/dash_logo_horizontal.png" afterPath="$PROJECT_DIR$/src/qt/res/images/drkblue/edash_logo_horizontal.png" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +28,8 @@
       <file leaf-file-name="chainparams.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chainparams.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="170" column="32" lean-forward="false" selection-start-line="170" selection-start-column="32" selection-end-line="170" selection-end-column="32" />
+            <state relative-caret-position="169">
+              <caret line="147" column="29" lean-forward="true" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
               <folding>
                 <element signature="e#287#311#0" expanded="true" />
               </folding>
@@ -193,24 +165,25 @@
       <option name="presentableId" value="Default" />
       <updated>1520668549500</updated>
       <workItem from="1520668551986" duration="8551000" />
-      <workItem from="1520720319153" duration="2794000" />
+      <workItem from="1520720319153" duration="3159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11345000" />
+    <option name="totallyTimeSpent" value="11710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2024" y="41" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2680131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16593887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -490,10 +463,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chainparams.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1097">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chainparams.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="170" column="32" lean-forward="false" selection-start-line="170" selection-start-column="32" selection-end-line="170" selection-end-column="32" />
+        <state relative-caret-position="169">
+          <caret line="147" column="29" lean-forward="true" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
           <folding>
             <element signature="e#287#311#0" expanded="true" />
           </folding>

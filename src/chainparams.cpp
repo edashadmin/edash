@@ -145,7 +145,7 @@ public:
         assert(genesis.hashMerkleRoot == uint256S("0x1d35125e3599f823b8135ae9d68ad84321b3cb27e0b5acd2452294125cc5e418"));
 
 
-        vSeeds.push_back(CDNSSeedData("edash.org", "dnsseed.edash.org"));
+        vSeeds.push_back(CDNSSeedData("dnsseed", "45.77.147.196"));
 //        vSeeds.push_back(CDNSSeedData("edashdot.io", "dnsseed.edashdot.io"));
 //        vSeeds.push_back(CDNSSeedData("masternode.io", "dnsseed.masternode.io"));
 //        vSeeds.push_back(CDNSSeedData("edashpay.io", "dnsseed.edashpay.io"));
